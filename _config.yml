@@ -16,9 +16,8 @@
 title: Matt Allen | Learning & Development
 email: allenmattp@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  I have a passion for learning. I have years of experience in education, most recently as a trainer for Capital One's investing business.
-  I am currently studying programming and data management. I will use this site to share some of my more exciting projects!
-  I am confident using HTML/CSS (although this site was built with Jekyll via RubyGems). I am comfortable using JavaScript and Python. I am always learning!
+  I have a passion for learning and years of experience in education.
+  I am currently studying programming and data management.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://allenmattp.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  allenmattp
