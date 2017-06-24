@@ -22,9 +22,9 @@ var cardNumber = prompt("How many cards would you like dealt? (max 30) ", 12);
 var roundCount = 0;
 var seconds = 0;
 function starAward(rounds) {
-	if (roundCount < 10) {
+	if (roundCount <= (cardNumber*.8)) {
 		return "🔥 🔥 🔥";
-	} else if (roundCount < 14) {
+	} else if (roundCount <= (cardNumber*1.2)) {
 		return "🔥 🔥";
 	} else {
 		return "🔥";
