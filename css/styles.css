@@ -1,0 +1,72 @@
+.page {
+	background-color: #ECEFF1;
+	padding: 1% 20%;
+}
+
+.menubox {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: center;
+	align-content: stretch;
+}
+
+.menu {
+	width: 144px;
+	height: 48px;
+	margin: 4px;
+	padding: 2px;
+	background-color: #ECEFF1;
+	border: #263238 4px solid;
+}
+
+.hover {
+	width: 144px;
+	height: 48px;
+	margin: 4px;
+	padding: 2px;
+	background-color: #263238;
+	color: #ECEFF1;
+}
+
+.header {
+	margin-top: 24px;
+	margin-left: 4px;
+	margin-right: 4px;
+	padding: 4px;
+	background-color: #263238;
+}
+
+.description {
+	height: 200px;
+	padding: 24px;
+}
+
+.footer {
+	margin: 24px 4px;
+	border: #263238 4px solid;
+}
+
+h1, h2, h3, span {
+	font-family: "Trebuchet MS", Tahoma, sans-serif;
+	text-align: center;
+}
+
+h1 {
+	color: #ECEFF1;
+    font-variant: small-caps;
+}
+
+h2 {
+	color: #263238;
+    font-variant: small-caps;
+}
+
+p {
+	color: #263238;
+	font-family: "Trebuchet MS", Tahoma, sans-serif;
+}
+
+a {
+	text-decoration: none;
+}
