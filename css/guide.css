@@ -1,4 +1,3 @@
-/*-- Highlight underlined text --*/
 u {
   background-color: #6088E0; 
   color: white; 
@@ -18,7 +17,7 @@ p br {
   color: #3C5CA9;
   margin: 50px 0;
 }
-/*-- Fixed Menu for help articles --*/
+
 
 .nav_menu {
   margin: 0;
@@ -51,4 +50,3 @@ p br {
   text-decoration: none;
   padding: 8px
 }
-/*-- End Fixed Menu --*/
