@@ -21,7 +21,7 @@ $('#projects').click(function() {
 	$ (this).addClass('hover');
 	$ ('#about').removeClass('hover')
 	$ ('#contact').removeClass('hover')
-	$ ('.content').replaceWith('<div class="content"><p>These are some of my projects.</p></div>');
+	$ ('.content').replaceWith('<div class="content"><p>These are some of my projects.</p></div><div><iframe src="https://matthew-test.skilljar.com/example-embedded-course/179197"></iframe></div>');
 });
 
 $('#contact').click(function() {
